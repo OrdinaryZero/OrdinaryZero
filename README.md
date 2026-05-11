@@ -1,56 +1,133 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=800&color=FF79C6&background=00000000&center=true&vCenter=true&width=800&lines=ssh+OrdinaryFeb@cyber_sec_net;>_Bypassing+security_protocols...;>_Access+Granted!;>_Welcome+to+the+mainframe." alt="Terminal Booting" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1a1a1a,50:2b213a,100:0f0f0f&text=OrdinaryZero&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Fullstack%20Developer&descAlignY=60"/>
 
-<br><br>
+<br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTEwZDI3NDRkNDQwZWYwZTYwZTI3ZTIwYThhMzYxNmRmYzBlZDM1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TksdHZOUAfcP4U8/giphy.gif" width="300" alt="Cyberpunk Terminal Animation" style="border-radius: 10px; border: 2px solid #FF79C6;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=Initializing+system...;Accessing+mainframe...;Cybersecurity+Enthusiast;Laravel+%7C+React+%7C+AI" />
 
-<br><br>
+</div>
 
-<p align="center" style="font-family: 'Fira Code', monospace; color: #ffffff;">
-<b>Web Developer & Cybersec Enthusiast</b> <br>
-<span style="color: #FF79C6;">[ STATUS: ACTIVE & MONITORING ]</span>
-</p>
-
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255, 121, 198, 1), rgba(255,255,255,1), rgba(255, 121, 198, 1), rgba(255,255,255,0)); margin: 30px 0;">
+---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="420" />
+
+</div>
+
+---
+
+# terminal.log
+
+```
+$ whoami
+
+Name        : Aditya Febrian
+Alias       : OrdinaryZero
+Role        : IT Student
+Focus       : Web Development & Cybersecurity
+Learning    : Artificial Intelligence & Automation
+OS          : Kali Linux
+Status      : ACTIVE
+```
+
+---
+
+# tech_stack.sys
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,react,php,js,cpp,java,mysql,postgres,linux,git,vscode&theme=dark" />
+
+</div>
+
+---
+
+# github_analytics.sys
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OrdinaryZero&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF79C6&icon_color=FFFFFF&text_color=FFFFFF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrdinaryZero&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF79C6&text_color=FFFFFF" />
+
+</div>
+
+---
+
+# contribution_graph.sys
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrdinaryZero&bg_color=0D111700&color=FFFFFF&line=FF79C6&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# contribution_snake.sys
+
+<div align="center">
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake.svg">
-<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake.svg">
+<img alt="snake animation" src="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake.svg">
 </picture>
+
 </div>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255, 121, 198, 1), rgba(255,255,255,1), rgba(255, 121, 198, 1), rgba(255,255,255,0)); margin: 30px 0;">
+---
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=OrdinaryZero&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Security Clearances" />
+# trophies.sys
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OrdinaryZero&theme=dracula&row=1&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+
+</div>
+
+---
+
+# current_mission.conf
+
+```yaml
+- Building scalable web applications
+- Learning AI & cybersecurity
+- Exploring automation systems
+- Improving backend architecture
+- Developing aesthetic interfaces
+```
+
+---
+
+# connect.sys
+
+<div align="center">
+
+<a href="https://github.com/OrdinaryZero">
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=FF79C6" />
 </a>
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrdinaryZero&bg_color=0D111700&color=FF79C6&line=FFFFFF&point=FF79C6&area=true&hide_border=true&title_color=FFFFFF" alt="System Pulse Graph" />
-</p>
+<a href="https://instagram.com/yourusername">
+<img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=FF79C6" />
+</a>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255, 121, 198, 1), rgba(255,255,255,1), rgba(255, 121, 198, 1), rgba(255,255,255,0)); margin: 30px 0;">
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=FF79C6" />
+</a>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=FF79C6" />
-<img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=nmap&logoColor=FF79C6" />
-<img src="https://img.shields.io/badge/Laravel-161b22?style=for-the-badge&logo=laravel&logoColor=FF79C6" />
-<img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=FF79C6" />
-<img src="https://img.shields.io/badge/ESP32-161b22?style=for-the-badge&logo=espressif&logoColor=FF79C6" />
-<img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=FF79C6" />
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-450d-bb6d-3b0f4b7e0d00.gif" width="100%">
 
 <br>
-<p align="center" style="color: #ffffff; font-size: 12px; font-family: monospace;">[ SESSION CLOSED ] <span style="color: #FF79C6; animation: blink 1s infinite;">▋</span></p>
 
-<style>
-@keyframes blink { 50% { opacity: 0; } }
-</style>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=session+terminated...;waiting+for+next+commit..." />
 
 </div>

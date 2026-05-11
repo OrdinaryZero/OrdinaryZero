@@ -283,11 +283,11 @@
   <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF79C6&labelColor=0d0d0d" />
 </a>
 &nbsp;
-<a href="https://instagram.com/yourusername">
+<a href="https://instagram.com/Ordinaryfeb_">
   <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=FF79C6&labelColor=0d0d0d" />
 </a>
 &nbsp;
-<a href="https://discord.com">
+<a href="https://discord.com/users/737648825677774910">
   <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=FF79C6&labelColor=0d0d0d" />
 </a>
 

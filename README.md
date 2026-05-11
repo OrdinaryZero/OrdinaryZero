@@ -1,133 +1,322 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1a1a1a,50:2b213a,100:0f0f0f&text=OrdinaryZero&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Fullstack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,40:1a0a1a,100:0d0d0d&text=OrdinaryZero&fontSize=58&fontColor=FF79C6&animation=fadeIn&fontAlignY=40&desc=◈%20SYSTEM%20ONLINE%20◈%20Cybersecurity%20%7C%20Fullstack%20Developer&descAlignY=62&descSize=16&descColor=ffffff" />
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=Initializing+system...;Accessing+mainframe...;Cybersecurity+Enthusiast;Laravel+%7C+React+%7C+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF79C6&center=true&vCenter=true&width=600&lines=%5BSYS%5D+Initializing+OrdinaryZero.exe...;%5BSYS%5D+Loading+core+modules...;%5BSYS%5D+Cybersecurity+module+active;%5BSYS%5D+Fullstack+environment+ready;%5BSYS%5D+AI+subsystem+engaged..." />
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="420" />
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </div>
 
----
+<br/>
 
-# terminal.log
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ WHOAMI ════════════════════ -->
+
+<br/>
+
+<div align="center">
 
 ```
-$ whoami
-
-Name        : Aditya Febrian
-Alias       : OrdinaryZero
-Role        : IT Student
-Focus       : Web Development & Cybersecurity
-Learning    : Artificial Intelligence & Automation
-OS          : Kali Linux
-Status      : ACTIVE
+╔══════════════════════════════════════════════════════╗
+║              ◈  IDENTITY MATRIX  ◈                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║   $ whoami                                           ║
+║                                                      ║
+║   Name     ──►  Aditya Febrian                       ║
+║   Alias    ──►  OrdinaryZero                         ║
+║   Role     ──►  IT Student                           ║
+║   Focus    ──►  Web Development & Cybersecurity      ║
+║   Learning ──►  Artificial Intelligence              ║
+║   OS       ──►  Kali Linux                           ║
+║   Status   ──►  [■■■■■■■■■■] ACTIVE                  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-# tech_stack.sys
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ TECH STACK ════════════════════ -->
+
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,php,js,cpp,java,mysql,postgres,linux,git,vscode&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=9999&color=FF79C6&center=true&vCenter=true&width=400&lines=%5B+tech_stack.sys+%5D+──+LOADED" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=laravel,react,php,js,cpp,java,mysql,postgres,linux,git,vscode&theme=dark&perline=6" />
 
 </div>
 
----
-
-# github_analytics.sys
+<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OrdinaryZero&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF79C6&icon_color=FFFFFF&text_color=FFFFFF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrdinaryZero&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF79C6&text_color=FFFFFF" />
+```
+◈  laravel  ◈  react  ◈  php  ◈  javascript  ◈  c++  ◈  java  ◈  mysql  ◈  linux  ◈  git  ◈
+```
 
 </div>
 
----
+<br/>
 
-# contribution_graph.sys
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ ANALYTICS ════════════════════ -->
+
+<br/>
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=9999&color=FF79C6&center=true&vCenter=true&width=400&lines=%5B+github_analytics.sys+%5D+──+LOADED" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=OrdinaryZero&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF79C6&icon_color=FF79C6&text_color=ffffff&ring_color=FF79C6" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrdinaryZero&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF79C6&text_color=ffffff" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OrdinaryZero&hide_border=true&background=0d0d0d&stroke=FF79C6&ring=FF79C6&fire=ffffff&currStreakLabel=FF79C6&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=FF79C6" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ CONTRIBUTION GRAPH ════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=9999&color=FF79C6&center=true&vCenter=true&width=400&lines=%5B+contribution_graph.sys+%5D+──+LOADED" />
+
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrdinaryZero&bg_color=0D111700&color=FFFFFF&line=FF79C6&point=FFFFFF&area=true&hide_border=true" />
-
 </div>
 
----
+<br/>
 
-# contribution_snake.sys
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ CONTRIBUTION SNAKE ════════════════════ -->
+
+<br/>
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=9999&color=FF79C6&center=true&vCenter=true&width=400&lines=%5B+contribution_snake.sys+%5D+──+LOADED" />
+
+</div>
+
+<br/>
+
+<div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake.svg">
-<img alt="snake animation" src="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/OrdinaryZero/OrdinaryZero/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
 
----
+<br/>
 
-# trophies.sys
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ TROPHIES ════════════════════ -->
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=OrdinaryZero&theme=dracula&row=1&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=9999&color=FF79C6&center=true&vCenter=true&width=400&lines=%5B+trophies.sys+%5D+──+LOADED" />
 
 </div>
 
----
+<br/>
 
-# current_mission.conf
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=OrdinaryZero&theme=dracula&row=1&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+</div>
 
-```yaml
-- Building scalable web applications
-- Learning AI & cybersecurity
-- Exploring automation systems
-- Improving backend architecture
-- Developing aesthetic interfaces
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ CURRENT MISSION ════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=9999&color=FF79C6&center=true&vCenter=true&width=400&lines=%5B+current_mission.conf+%5D+──+LOADED" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║            ◈  ACTIVE DIRECTIVES  ◈                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║   [■] Building scalable web applications             ║
+║   [■] Learning AI & cybersecurity                    ║
+║   [■] Exploring automation systems                   ║
+║   [■] Improving backend architecture                 ║
+║   [■] Developing aesthetic interfaces                ║
+║                                                      ║
+║   MISSION STATUS  ──►  IN PROGRESS                   ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-# connect.sys
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ SPOTIFY ════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=9999&color=FF79C6&center=true&vCenter=true&width=400&lines=%5B+audio_stream.sys+%5D+──+LOADED" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║          ◈  CURRENTLY LISTENING  ◈                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║   ♪  Now Playing                                     ║
+║      Frank Ocean — Pink + White                      ║
+║                                                      ║
+║   ████████████████████░░░░░░   3:19 / 3:53           ║
+║                                                      ║
+║   [◄◄]  [▐▐]  [►]  [♡]  [↻]                         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ CONNECT ════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=9999&color=FF79C6&center=true&vCenter=true&width=400&lines=%5B+connect.sys+%5D+──+LOADED" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <a href="https://github.com/OrdinaryZero">
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF79C6&labelColor=0d0d0d" />
 </a>
-
+&nbsp;
 <a href="https://instagram.com/yourusername">
-<img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=FF79C6&labelColor=0d0d0d" />
 </a>
-
+&nbsp;
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=FF79C6&labelColor=0d0d0d" />
 </a>
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- ════════════════════ FOOTER ════════════════════ -->
+
+<br/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-450d-bb6d-3b0f4b7e0d00.gif" width="100%">
+```
+╔══════════════════════════════════════════════════════╗
+║            ◈  SESSION TERMINATED  ◈                 ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║   [SYS] All modules unloaded                         ║
+║   [SYS] Closing secure channel...                    ║
+║   [SYS] Goodbye, OrdinaryZero                        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=session+terminated...;waiting+for+next+commit..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=session+terminated...;waiting+for+next+commit...;◈+OrdinaryZero.exe+has+exited+◈" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d0d,50:1a0a1a,100:0d0d0d&section=footer" />
 
 </div>

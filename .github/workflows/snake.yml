@@ -2,13 +2,13 @@ name: Generate Snake Activity
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   workflow_dispatch: 
   push:
     branches:
     - main
 
-# INI KUNCI UNTUK MENGATASI ERROR 403
+
 permissions:
   contents: write
 
@@ -21,7 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF00&color_dots=#161b22,#004400,#006600,#008800,#00cc00
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF79C6&color_dots=#161b22,#5c1a3b,#8f2558,#c73479,#ff479c
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           

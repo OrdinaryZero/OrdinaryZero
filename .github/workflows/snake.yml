@@ -2,11 +2,15 @@ name: Generate Snake Activity
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Berjalan otomatis setiap 12 jam
-  workflow_dispatch: # Memungkinkan kamu menjalankan script secara manual
+    - cron: "0 */12 * * *" 
+  workflow_dispatch: 
   push:
     branches:
     - main
+
+# INI KUNCI UNTUK MENGATASI ERROR 403
+permissions:
+  contents: write
 
 jobs:
   build:

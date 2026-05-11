@@ -102,9 +102,12 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=OrdinaryZero&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF79C6&icon_color=FF79C6&text_color=ffffff&ring_color=FF79C6" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrdinaryZero&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF79C6&text_color=ffffff" />
+<a href="https://github.com/OrdinaryZero">
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=OrdinaryZero&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF79C6&icon_color=FF79C6&text_color=ffffff&ring_color=FF79C6&count_private=true" />
+</a>
+<a href="https://github.com/OrdinaryZero">
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OrdinaryZero&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF79C6&text_color=ffffff&count_private=true" />
+</a>
 
 </div>
 

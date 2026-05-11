@@ -1,18 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,40:1a0a1a,100:0d0d0d&text=OrdinaryZero&fontSize=58&fontColor=FF79C6&animation=fadeIn&fontAlignY=40&desc=◈%20SYSTEM%20ONLINE%20◈%20Cybersecurity%20%7C%20Fullstack%20Developer&descAlignY=62&descSize=16&descColor=ffffff" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF79C6&center=true&vCenter=true&width=600&lines=%5BSYS%5D+Initializing+OrdinaryZero.exe...;%5BSYS%5D+Loading+core+modules...;%5BSYS%5D+Cybersecurity+module+active;%5BSYS%5D+Fullstack+environment+ready;%5BSYS%5D+AI+subsystem+engaged..." />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 </div>
-
-<br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=42&pause=99999&color=FF79C6&center=true&vCenter=true&width=800&height=80&lines=OrdinaryZero" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=30&lines=◈+CYBERSECURITY+%7C+FULLSTACK+DEVELOPER+%7C+AI+◈" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1200&color=FF79C6&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Initializing+OrdinaryZero.exe...;%5BSYS%5D+Loading+core+modules...;%5BSYS%5D+Cybersecurity+module+active;%5BSYS%5D+Fullstack+environment+ready;%5BSYS%5D+AI+subsystem+engaged..." />
+
 </div>
+
+<br/>
+
+
 
 <br/>
 

@@ -26,37 +26,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
-<!-- ════════════════════ WHOAMI ════════════════════ -->
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║              ◈  IDENTITY MATRIX  ◈                  ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║   $ whoami                                           ║
-║                                                      ║
-║   Name     ──►  Aditya Febrian                       ║
-║   Alias    ──►  OrdinaryZero                         ║
-║   Role     ──►  IT Student                           ║
-║   Focus    ──►  Web Development & Cybersecurity      ║
-║   Learning ──►  Artificial Intelligence              ║
-║   OS       ──►  Kali Linux                           ║
-║   Status   ──►  [■■■■■■■■■■] ACTIVE                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
 
 <!-- ════════════════════ TECH STACK ════════════════════ -->
 
@@ -68,17 +37,22 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=laravel,react,php,js,cpp,java,mysql,postgres,linux,git,vscode&theme=dark&perline=6" />
-
-</div>
+<!-- Row 1: Frameworks & Languages -->
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 <br/>
 
-<div align="center">
-
-```
-◈  laravel  ◈  react  ◈  php  ◈  javascript  ◈  c++  ◈  java  ◈  mysql  ◈  linux  ◈  git  ◈
-```
+<!-- Row 2: Databases & Tools -->
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
